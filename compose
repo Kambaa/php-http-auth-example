@@ -1,0 +1,12 @@
+{
+  "name": "Kambaa/php-http-auth-example",
+  "description": "http basic authentication with php",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yusuf Gündüz",
+      "email": "yusuf.gunduz@gmail.com"
+    }
+  ]
+}
